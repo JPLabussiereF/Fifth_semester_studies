@@ -14,7 +14,7 @@
 
 ## 🧠 Redes de Computadores
 
-Playlist: **UNIVESP** [Engenharia de Computação - Redes de Computadores - 14º Bimestre](https://www.youtube.com/playlist?list=PLxI8Can9yAHc-_dZ6nsfoon08i2-4OvEk)
+Playlist: **UNIVESP** [Engenharia de Computação - Redes de Computadores - 14º Bimestre](https://www.youtube.com/playlist?list=PLxI8Can9yAHc-_dZ6nsfoon08i2-4OvEk) - Sugestão de Erik Martins
 
 **Curso: HRBR** [Redes de Computadores [20h]](https://www.hrbrcursos.com/curso/curso-de-redes/) - Grátis
 
@@ -55,15 +55,21 @@ Playlist: **UNIVESP** [Engenharia de Computação - Redes de Computadores - 14º
 
 **Livro: Head Fist** [O Guia Amigo do Seu Cérebro. Use a cabeça! SQL](https://github.com/brunocampos01/banco-de-dados/blob/master/livros/Use%20a%20Cabeca%20-%20SQL.pdf)
 
-**Playlist: Bóson Treinamentos** [Curso de Modelagem de Dados](https://github.com/brunocampos01/banco-de-dados/blob/master/livros/Use%20a%20Cabeca%20-%20SQL.pdf) - Sugestão do Willian
+**Playlist: Bóson Treinamentos** [Curso de Modelagem de Dados](https://github.com/brunocampos01/banco-de-dados/blob/master/livros/Use%20a%20Cabeca%20-%20SQL.pdf) - Sugestão de Willian Gama
 
-**Playlist: CFBCursos** [Curso de SQL](https://www.youtube.com/playlist?list=PLx4x_zx8csUgQUjExcssR3utb3JIX6Kra) - Sugestão do Willian
+**Playlist: CFBCursos** [Curso de SQL](https://www.youtube.com/playlist?list=PLx4x_zx8csUgQUjExcssR3utb3JIX6Kra) - Sugestão de Willian Gama
 
 ## 🧮 Sistemas Eletricos
 
 ## 🧩 Grafos na Computação
 
 ## 🎎 Desenvolvimeto de Software
+
+## 🌹 Extras
+
+**Livros: Free Educa** [Dev-Books Repository](https://github.com/free-educa/books) - Sugestão de Caíque Brener 
+
+**YouTube: Willian Justen** [HTML, CSS, JS, SVG, React, Canvas, Acessibilidade e muito mais](https://www.youtube.com/@WillianJustenCursos) - Sugestão de Caíque Brener 
 
 ## 💜 Autor
 
@@ -72,4 +78,7 @@ Playlist: **UNIVESP** [Engenharia de Computação - Redes de Computadores - 14º
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/153572623?v=4" width=115><br><sub>João Pedro Labussiere</sub>](https://github.com/JPLabussiereF) | 
 | :---: | 
 
+## 🤝 Colaboradores
 
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/133993022?v=4" width=115><br><sub>Erik Oliveira Martins</sub>](https://github.com/Erik-martins99) | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/146802088?v=4" width=115><br><sub>Willian Gama</sub>](https://github.com/williangama37) | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/65732426?v=4" width=115><br><sub>Caíque Brener</sub>](https://github.com/C-Brener) |
+| :---: | :---: | :---: | 
