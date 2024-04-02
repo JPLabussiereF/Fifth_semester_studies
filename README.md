@@ -16,8 +16,6 @@
 
 Playlist: **UNIVESP** [Engenharia de Computação - Redes de Computadores - 14º Bimestre](https://www.youtube.com/playlist?list=PLxI8Can9yAHc-_dZ6nsfoon08i2-4OvEk)
 
-Playlist: 
-
 **Curso: HRBR** [Redes de Computadores [20h]](https://www.hrbrcursos.com/curso/curso-de-redes/) - Grátis
 
 **Curso: HRBR** [Fundamentos de Redes de Computadores [20h]](https://www.hrbrcursos.com/curso/curso-pratico-de-redes/) - Grátis
@@ -65,7 +63,7 @@ Playlist:
 
 ## 💜 Autor
 
-<img src="assets\image\idea.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Imagem de uma ideia">
+<img src="assets\image\idea.png" min-width="400px" max-width="300px" width="300px" align="right" alt="Imagem de uma ideia">
 
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/153572623?v=4" width=115><br><sub>João Pedro Labussiere</sub>](https://github.com/JPLabussiereF) | 
 | :---: | 
