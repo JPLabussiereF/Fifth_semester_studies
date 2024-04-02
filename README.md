@@ -69,7 +69,9 @@ Playlist: **UNIVESP** [Engenharia de Computação - Redes de Computadores - 14º
 
 **Livros: Free Educa** [Dev-Books Repository](https://github.com/free-educa/books) - Sugestão de Caíque Brener 
 
-**YouTube: Willian Justen** [HTML, CSS, JS, SVG, React, Canvas, Acessibilidade e muito mais](https://www.youtube.com/@WillianJustenCursos) - Sugestão de Caíque Brener 
+**YouTube: Willian Justen** [HTML, CSS, JS, SVG, React, Canvas, Acessibilidade e muito mais](https://www.youtube.com/@WillianJustenCursos) - Sugestão de Caíque Brener
+
+**DOC: Rocketseat** [Regras de Negócios: O que você precisa saber](https://doc.clickup.com/9017109530/d/h/8cqcb0u-1937/b4b403ba3158338)
 
 ## 💜 Autor
 
