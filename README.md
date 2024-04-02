@@ -55,6 +55,10 @@ Playlist: **UNIVESP** [Engenharia de Computação - Redes de Computadores - 14º
 
 **Livro: Head Fist** [O Guia Amigo do Seu Cérebro. Use a cabeça! SQL](https://github.com/brunocampos01/banco-de-dados/blob/master/livros/Use%20a%20Cabeca%20-%20SQL.pdf)
 
+**Playlist: Bóson Treinamentos** [Curso de Modelagem de Dados](https://github.com/brunocampos01/banco-de-dados/blob/master/livros/Use%20a%20Cabeca%20-%20SQL.pdf) - Sugestão do Willian
+
+**Playlist: CFBCursos** [Curso de SQL](https://www.youtube.com/playlist?list=PLx4x_zx8csUgQUjExcssR3utb3JIX6Kra) - Sugestão do Willian
+
 ## 🧮 Sistemas Eletricos
 
 ## 🧩 Grafos na Computação
