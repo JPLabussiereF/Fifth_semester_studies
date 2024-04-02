@@ -33,7 +33,7 @@ Playlist: **UNIVESP** [Engenharia de Computação - Redes de Computadores - 14º
 ## 👩‍💻 Cyber Security
 
 > [!WARNING]
-> Ainda não parei pra estudar essa matéria. mas ai estão os conteúdos que provavelmente irei começar ou ter como base. 
+> Ainda não parei pra estudar essa matéria. Mas, estes são os conteúdos que provavelmente irei começar ou ter como base. 
 
 **Curso: HRBR** [Introdução a Segurança da Informação [10h]](https://www.hrbrcursos.com/curso/introducao-a-seguranca-da-informacao/) - Grátis
 
